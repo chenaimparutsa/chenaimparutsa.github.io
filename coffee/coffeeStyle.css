@@ -1,0 +1,15 @@
+/* Chenai's attempt at reproducing coffee website */
+body {
+	font-family: serif;
+
+}
+h3 {
+	color: #3b2214;
+	font-size: 16pt;
+	font-family: sans-serif;
+}
+
+p{
+	font-size: 14pt;
+	color: #404040;
+}
